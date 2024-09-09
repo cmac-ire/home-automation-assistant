@@ -27,5 +27,5 @@ This project is an AI-powered voice assistant that integrates with Home Assistan
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI_Home_Automation_Assistant.git
-   cd AI_Home_Automation_Assistant
+   git clone https://github.com/cmac-ire/ai_home_automation_assistant.git
+   cd ai_home_automation_assistant
