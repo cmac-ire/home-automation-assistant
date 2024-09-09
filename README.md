@@ -18,7 +18,7 @@ This project is an AI-powered voice assistant that integrates with Home Assistan
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.x
+- Python 3.9+
 - Git
 - A Raspberry Pi (optional for deployment)
 - Home Assistant (for controlling smart devices)
