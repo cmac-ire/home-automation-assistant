@@ -1,4 +1,4 @@
-name: Deploy to Vercel
+name: Deploy AI Home Automation Assistant to Vercel
 
 on:
   push:
@@ -8,6 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -15,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # or your preferred Node.js version
+          node-version: '18'  # Adjust as needed
 
       - name: Install Vercel CLI
         run: npm install -g vercel
