@@ -1,5 +1,7 @@
 # AI-Powered Home Automation Assistant
 
+*This project was developed with the help of AI tools, using them as a guide, assistant, and for significant code generation. All final creative decisions and deployments reflect my own work and intentions.*
+
 ## Overview
 This project is an AI-powered voice assistant that integrates with Home Assistant to control various smart devices in your home. It’s designed to run on a Raspberry Pi but can be developed and tested on any machine with Python support. The assistant will recognize voice commands, process them using a speech recognition library, and control your smart home devices accordingly.
 
